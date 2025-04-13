@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-// MongoDB connection issue resolved
+// MongoDB connection issue resolved.
 
 
 const dbConnection = async () => {
